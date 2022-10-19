@@ -1,0 +1,8 @@
+speed_limit = 130
+car_speed = int(input("Speed: "))
+if car_speed <= speed_limit:
+    print("Its good")
+else:
+    print("You are speeding")    
+ 
+
